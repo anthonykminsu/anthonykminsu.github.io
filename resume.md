@@ -1,55 +1,63 @@
-# Your Name
+# Anthony Kim
 
-your.name@example.com
+## Contact Information
+- Email: [amk1020@uw.edu](mailto:amk1020@uw.edu)
+- LinkedIn: [Anthony Kim](https://www.linkedin.com/in/anthony-kim-49386a191/)
 
-http://www.example.com
+### Summary
+> I am a passionate Geographic Data Science student with a minor in Informatics at the University of Washington. I have demonstrated my skills through methods like data analysis, strategic marketing, and team-based communication through internships and club activities. I am also skilled in Java, Python, SQL, JavaScript, HTML/CSS, R, and various developer tools. Seeking to apply my academic background and internship experience in a challenging data science role.
 
-http://www.linkedin.com/in/yourname
+#### Work Experience
 
-# Summary
+##### RippleMatch (Remote)
+**Marketing Intern** (August 2022 - January 2023)
 
-Quick Summary (not objective) specifically highlighting why you qualify for the job.
+- Collaborated weekly on growth initiatives using social media and email marketing.
+- **Achievements**:
+  - Increased social media engagement by 40%.
+  - Initiated an email marketing campaign increasing newsletter sign-ups by 25%.
 
-# Work Experience (only last 10 years)
+![RippleMatch Logo](https://pbs.twimg.com/media/FQuAIfLXoAM_082?format=jpg&name=4096x4096)
 
-## University Name 1 (City, State)
+##### Data Ethics Club, University of Washington
+**Member** (Jan. 2021 - June 2022)
 
-* [University 1][] description, particularly if not well-known.*
+- Participated in discussions on data privacy and security.
+- Organized a panel discussion with over 100 attendees.
 
-** Position Title (include alternate titles in parentheses)** (Start Date - End Date)
+##### Software Engineering Club, University of Washington
+**Member** (Sep 2022 - Present)
 
-Summary of your role
+- Engaged in software design and coding challenges.
+- Participated in weekly sessions dedicated to the exploration of strategies for securing a software engineering role
 
-- Accomplishment that contains **bold text**.
-- Accomplishment
-- Accomplishment
-- Accomplishment
+#### Education
 
-## University Name 2 (City, State)
-*[University 2][] description, particularly if not well-known.*
+##### University of Washington
+- Bachelor of Arts in Geographic Data Science
+- Minor in Informatics
+- **Duration**: Aug. 2020 - Present
 
-** Position Title (include alternate titles in parentheses)** (Start Date - End Date)
+##### University of California San Diego
+- Bachelor of Science in Business Economics
+- **Duration**: Aug. 2019 - March 2020
 
-Summary of your role
+#### Projects
 
-- Accomplishment that contains **bold text**.
-- Accomplishment
-- Accomplishment
-- Accomplishment
+##### Interactive Shinyapps Website
+- Created, debugged, developed, managed, etc. a interactive visualized platform with a team of four.
+- Acquired experience in Rstudio, shinyapps, and Github through the implementation of GitHub OAuth to acquire data from user’s repositories
 
-## University Name 3 (City, State)
-* [University 3][] description, particularly if not well-known.*
+- ![Shinyapps Example](https://amk002.shinyapps.io/BD3Group/?_ga=2.146743412.1904948407.1630726888-1439134486.1622003163 ) *Example of a Shinyapp*
 
-** Position Title (include alternate titles in parentheses)** (Start Date - End Date)
+##### Seattle Crime Analysis
+- Developed a report on how the Seattle Link Light Rail Station has impacted the state of crime in Seattle, Washington
+- Analyzed crime rates using JavaScript.
+- Implemented map features like zoom-in and user identification.
 
-Summary of your role
+#### Technical Skills
 
-- Accomplishment
-- Accomplishment
-- Accomplishment
-- Accomplishment
+- **Languages**: Java, Python, SQL, JavaScript. HTML/CSS
+- **Tools**: Git, VS Code, PyCharm, Google Colab, ArcGIS, Rstudio, Vega-lite, IntelliJ
+- **Libraries**: pandas, D3, matplotlib
 
-
-[University 1]: http://www.univ1.edu
-[University 2]: http://www.univ2.edu
-[University 3]: http://www.univ3.edu
