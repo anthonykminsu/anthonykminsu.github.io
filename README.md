@@ -10,14 +10,13 @@
 #### **Work Experience**
 
 ##### **RippleMatch (Remote)**
+![RippleMatch Logo](https://pbs.twimg.com/media/FQuAIfLXoAM_082?format=jpg&name=4096x4096)
 **Marketing Intern** (August 2022 - January 2023)
 
 - Collaborated weekly on growth initiatives using social media and email marketing.
 - **Achievements**:
   - Increased social media engagement by 40%.
   - Initiated an email marketing campaign increasing newsletter sign-ups by 25%.
-
-![RippleMatch Logo](https://pbs.twimg.com/media/FQuAIfLXoAM_082?format=jpg&name=4096x4096)
 
 ##### **Data Ethics Club, University of Washington**
 **Member** (Jan. 2021 - June 2022)
