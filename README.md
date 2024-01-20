@@ -54,6 +54,7 @@
 - Analyzed crime rates using JavaScript.
 - Implemented map features like zoom-in and user identification.
 
+- ![Shinyapps Example](https://observablehq.com/d/4f505f162a997e2b#cell-1478)
 #### **Technical Skills**
 
 - **Languages**: Java, Python, SQL, JavaScript, HTML/CSS.
