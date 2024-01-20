@@ -7,7 +7,7 @@
 ### **Summary**
 > I am a passionate Geographic Data Science student with a minor in Informatics at the University of Washington. I have demonstrated my skills through methods like data analysis, strategic marketing, and team-based communication through internships and club activities. I am also skilled in Java, Python, SQL, JavaScript, HTML/CSS, R, and various developer tools. Seeking to apply my academic background and internship experience in a challenging data science role.
 
-#### **Work Experience**
+# **Work Experience**
 
 ##### **RippleMatch (Remote)**
 ![RippleMatch Logo](https://pbs.twimg.com/media/FQuAIfLXoAM_082?format=jpg&name=4096x4096)
@@ -30,7 +30,7 @@
 - Engaged in software design and coding challenges.
 - Participated in weekly sessions dedicated to the exploration of strategies for securing a software engineering role.
 
-#### **Education**
+# **Education**
 
 ##### **University of Washington**
 - Bachelor of Arts in Geographic Data Science
@@ -41,7 +41,7 @@
 - Bachelor of Science in Business Economics
 - **Duration**: Aug. 2019 - March 2020
 
-#### **Projects**
+# **Projects**
 
 ##### **Interactive Shinyapps Website**
 - Created, debugged, developed, managed, etc. an interactive visualized platform with a team of four.
