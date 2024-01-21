@@ -17,14 +17,14 @@ Website: https://anthonykminsu.github.io/
 
 - Collaborated weekly on growth initiatives using social media and email marketing.
 - **Achievements**:
-  - Increased social media engagement by 40%.
-  - Initiated an email marketing campaign increasing newsletter sign-ups by 25%.
+  - Increased app engagement through user acquisition.
+  - Initiated an email marketing campaign increasing newsletter sign-ups.
 
 ##### **Data Ethics Club, University of Washington**
 **Member** (Jan. 2021 - June 2022)
 
 - Participated in discussions on data privacy and security.
-- Organized a panel discussion with over 100 attendees.
+- Participated in panel discussions with over 30 attendees.
 
 ##### **Software Engineering Club, University of Washington**
 **Member** (Sep 2022 - Present)
@@ -49,6 +49,8 @@ Website: https://anthonykminsu.github.io/
 - Created, debugged, developed, managed, etc. an interactive visualized platform with a team of four.
 - Acquired experience in Rstudio, shinyapps, and Github through the implementation of GitHub OAuth to acquire data from user’s repositories.
 
+<img width="1418" alt="Screen Shot 2024-01-20 at 4 55 58 PM" src="https://github.com/anthonykminsu/anthonykminsu.github.io/assets/77130958/c341392a-970c-40b6-bdfa-480dd6b157d1">
+
 [View Interactive Shinyapps Website](https://amk002.shinyapps.io/BD3Group/?_ga=2.146743412.1904948407.1630726888-1439134486.1622003163)
 
 
@@ -57,7 +59,9 @@ Website: https://anthonykminsu.github.io/
 - Analyzed crime rates using JavaScript.
 - Implemented map features like zoom-in and user identification.
 
-- [View Seattle Crime Analysis Example](https://observablehq.com/d/4f505f162a997e2b#cell-1478)
+<img width="713" alt="crimemap" src="https://github.com/anthonykminsu/anthonykminsu.github.io/assets/77130958/9231af7f-8837-43d1-a5fe-a2bcb83776b1">
+
+[View Seattle Crime Analysis Example](https://observablehq.com/d/4f505f162a997e2b#cell-1478)
 
 #### **Technical Skills**
 
