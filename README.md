@@ -1,3 +1,5 @@
+Website: https://anthonykminsu.github.io/
+
 # Anthony Kim
 
 ## Contact Information
@@ -47,14 +49,16 @@
 - Created, debugged, developed, managed, etc. an interactive visualized platform with a team of four.
 - Acquired experience in Rstudio, shinyapps, and Github through the implementation of GitHub OAuth to acquire data from user’s repositories.
 
-- ![Shinyapps Example](https://amk002.shinyapps.io/BD3Group/?_ga=2.146743412.1904948407.1630726888-1439134486.1622003163) *Example of a Shinyapp*
+[View Interactive Shinyapps Website](https://amk002.shinyapps.io/BD3Group/?_ga=2.146743412.1904948407.1630726888-1439134486.1622003163)
+
 
 ##### **Seattle Crime Analysis**
 - Developed a report on how the Seattle Link Light Rail Station has impacted the state of crime in Seattle, Washington.
 - Analyzed crime rates using JavaScript.
 - Implemented map features like zoom-in and user identification.
 
-- ![Crime Analysis Example](https://observablehq.com/d/4f505f162a997e2b#cell-1478)
+- [View Seattle Crime Analysis Example](https://observablehq.com/d/4f505f162a997e2b#cell-1478)
+
 #### **Technical Skills**
 
 - **Languages**: Java, Python, SQL, JavaScript, HTML/CSS.
