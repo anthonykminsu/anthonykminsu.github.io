@@ -117,7 +117,7 @@ Website: https://anthonykminsu.github.io/
 - Created, debugged, developed, managed, etc. an interactive visualized platform with a team of four.
 - Acquired experience in Rstudio, shinyapps, and Github through the implementation of GitHub OAuth to acquire data from user’s repositories.
 
-![Shinyapps Example](/Users/amk/Downloads/Workspace/anthonykminsu.github.io/assets/img/shinymap.png)
+![Shinyapps Example](shinymap.png)
 [View Interactive Shinyapps Website](https://amk002.shinyapps.io/BD3Group/?_ga=2.146743412.1904948407.1630726888-1439134486.1622003163)
 
 
